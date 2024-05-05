@@ -1,4 +1,10 @@
 # odin-landing-page
+A landing page for a fictional company. The page contains a hero with header, an information 
+section, a quote section, a call-to-action, and a footer.
+
+## An Odin Project
+The basic criteria and designs for styling come from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page). 
+The implementation was all left up to myself.
 
 ### Attributions to Image Creators
 **Images from [Pexels](https://www.pexels.com/)**
